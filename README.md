@@ -21,7 +21,7 @@ With the integration of **Firebase**, the app provides real-time data synchroniz
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/flux.git
-   cd flux```
+   cd flux
 
 2. Install the dependencies:
      ```npm install```
